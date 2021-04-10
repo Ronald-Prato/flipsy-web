@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `git clone https://github.com/Ronald-Prato/flipsy-web.git`
+
+## IMPORTANT!
+
+first run the following command to install the dependencies 
+
+### `npm install -d`
+
 ## Available Scripts
 
 In the project directory, you can run:
